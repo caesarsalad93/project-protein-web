@@ -1,35 +1,76 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  font-family: Arial, sans-serif;;
+  font-family: Arial, sans-serif;
 }
+
+.table-container {
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  max-height: 900px; /* Adjust based on your needs */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 table {
   width: 100%;
   border-collapse: collapse;
-  table-layout: fixed;
+  table-layout: fixed; /* Ensures that table layout is fixed */
+  background-color: #2d2d2d; /* Dark background for the table */
 }
 
-th, td {
-  max-width: 100%;
-  width: 11.1%; /* Set fixed width for each column */
-  padding: 8px;
+thead {
+  background-color: #4d4d4d;
+  color: white;
+  position: sticky;
+  top: 0;
+}
+
+thead th {
+  padding: 10px;
   text-align: left;
-  border: 1px solid #ccc;
-  overflow: hidden;
-  word-wrap: break-word;
+  white-space: nowrap; /* Prevents text from wrapping */
 }
 
-.table-wrapper {
-  display: flex;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
-  flex-direction: column;
+tbody tr {
+  border-bottom: 1px solid #3d3d3d;
 }
 
-.logos { 
-  
+tbody td {
+  padding: 10px;
+  color: white;
+  white-space: nowrap; /* Prevents text from wrapping */
+  overflow: hidden; /* Ensures that text does not overflow the cell */
+  text-overflow: ellipsis; /* Adds ellipsis (...) for overflow text */
+  text-align: left;
+}
+
+/* Specific width for the first td (Product) */
+tbody td:first-child {
+  width: 200px; /* Fixed width for the first column */
+}
+
+tbody td.numeric {
+  text-align: right; /* Align numeric data to the right */
+}
+
+tbody tr:nth-child(even) {
+  background-color: #3d3d3d;
+}
+
+tbody tr:hover {
+  background-color: #4d4d4d;
+}
+
+/* Text styles */
+h2 {
+  text-align: center;
+  margin-bottom: 20px;
+  color: white;
+  font-family: Arial, sans-serif;
+  font-size: 2em;
 }
 
 .logo {
@@ -64,3 +105,4 @@ th, td {
 .read-the-docs {
   color: #888;
 }
+

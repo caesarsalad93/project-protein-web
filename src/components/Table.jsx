@@ -1,4 +1,3 @@
-import json from '../../frozenMeatPoultrySeafood_processed.json'
 import React, { useState } from 'react';
 
 export default function ProductsTable({ initialData }) {
@@ -28,7 +27,8 @@ export default function ProductsTable({ initialData }) {
                     placeholder="Filter"
                 />
             </label>
-            <table className="table-wrapper">
+            <div className="table-container">
+            <table>
             <thead>
                 <tr>
                     <th>Product</th>
@@ -44,44 +44,22 @@ export default function ProductsTable({ initialData }) {
             </thead>
             <tbody>
                 {data.map((item, index) => (
-                    <div>
                      <tr key={index}>
                         {console.log(item)}
-                        <td>{item.productTitle}</td>
-                        <td>{item.productPrice}</td>
-                        <td>{item.nutrition.calories}</td>
-                        <td>{item.nutrition.totalFat}</td>
-                        <td>{item.nutrition.totalCarbs}</td>
-                        <td>{item.nutrition.protein}</td>
-                        <td>{item.productPrice}</td>
-                        <td>{item.productPrice}</td>
-                        <td>{item.productPrice}</td>                        
+                        <td className="numeric">{item.productTitle}</td>
+                        <td className="numeric">{item.productPrice}</td>
+                        <td className="numeric">{item.nutrition.calories}</td>
+                        <td className="numeric">{item.nutrition.totalFat}</td>
+                        <td className="numeric">{item.nutrition.totalCarbs}</td>
+                        <td className="numeric">{item.nutrition.protein}</td>
+                        <td className="numeric">{item.productPrice}</td>
+                        <td className="numeric">{item.productPrice}</td>
+                        <td className="numeric">{item.productPrice}</td>                        
                     </tr>
-                    </div>
                 ))}
             </tbody>
         </table>
+            </div>
         </div>
     )
 }
-
-// nutrition
-// : 
-// calories
-// : 
-// "110"
-// protein
-// : 
-// "9"
-// servingSize
-// : 
-// "N/A"
-// servingsPerContainer
-// : 
-// "N/A"
-// totalCarbs
-// : 
-// "2"
-// totalFat
-// : 
-// "7"
