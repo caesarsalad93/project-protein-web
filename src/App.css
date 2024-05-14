@@ -3,13 +3,33 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  font-family: Arial, sans-serif;;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
 }
 
-.logos {
-  position: absolute;  /* or 'fixed' if you want it to stay at the top when scrolling */
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%)    
+th, td {
+  max-width: 100%;
+  width: 11.1%; /* Set fixed width for each column */
+  padding: 8px;
+  text-align: left;
+  border: 1px solid #ccc;
+  overflow: hidden;
+  word-wrap: break-word;
+}
+
+.table-wrapper {
+  display: flex;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
+  flex-direction: column;
+}
+
+.logos { 
+  
 }
 
 .logo {

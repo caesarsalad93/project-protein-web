@@ -1,6 +1,8 @@
 import { useState } from 'react'
 import './App.css'
-import Logos from './Logos'
+import Logos from './components/Logos'
+import ProductsTable from './components/Table'
+import json from '../frozenMeatPoultrySeafood_processed.json'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -8,6 +10,7 @@ function App() {
   return (
     <>
     <Logos></Logos>
+    <ProductsTable initialData={json}></ProductsTable>
     </>
   )
 }
