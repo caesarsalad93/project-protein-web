@@ -88,7 +88,7 @@ export default function ProductsTable({ initialData }) {
             </thead>
             <tbody>
                 {data.map((item, index) => {
-                    const { productTitle, productPrice, nutrition, percentCaloriesFromProtein, pricePerServing, costPerGramProtein: pricePerGram } = item;
+                    const { productTitle, productPrice, nutrition, percentCaloriesFromProtein, pricePerServing, costPerGramProtein: pricePerGram, productLink } = item;
                     const { calories, totalFat, totalCarbs, protein } = nutrition;
                     console.log(item);
 
@@ -100,7 +100,11 @@ export default function ProductsTable({ initialData }) {
 
                     return (
                      <tr key={index}>
-                        <td className="numeric">{productTitle}</td>
+                        <td className="numeric">
+                            <a href={productLink} target="_blank">
+                                {productTitle}
+                            </a>
+                        </td>
                         <td className="numeric">{productPrice}</td>
                         <td className="numeric">{calories}</td>
                         <td className="numeric">{totalFat}</td>
