@@ -28,6 +28,11 @@ thead {
   top: 0;
 }
 
+th:hover {
+  background-color: #f9b3b3;
+}
+
+
 thead th {
   padding: 10px;
   text-align: left;
