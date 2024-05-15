@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 
 export default function ProductsTable({ initialData }) {
 
@@ -6,11 +6,14 @@ export default function ProductsTable({ initialData }) {
     const [filter, setFilter] = useState('');
     const [sortConfig, setSortConfig] = useState({ key: '', direction: '' });
 
+    useEffect(() => {
+        setData(initialData);
+    }, [initialData]);
+
     const handleFilterChange = (event) => {
         setFilter(event.target.value);
         if(event.target.value === "") {
             setData(initialData);
-            console.log(initialData);
         } else {
             const filteredData = initialData.filter(item => 
                 item.productTitle.toLowerCase().includes(event.target.value.toLowerCase())
