@@ -81,15 +81,16 @@ export default function ProductsTable({ initialData }) {
                     <th onClick={() => handleSort('totalFat')}>Fat {renderSortArrow('totalFat')}</th>
                     <th onClick={() => handleSort('totalCarbs')}>Carbs {renderSortArrow('totalCarbs')}</th>
                     <th onClick={() => handleSort('protein')}>Protein {renderSortArrow('protein')}</th>
-                    <th onClick={() => handleSort('pps')}>PPS {renderSortArrow('pps')}</th>
-                    <th onClick={() => handleSort('ppg')}>PPG {renderSortArrow('ppg')}</th>
-                    <th onClick={() => handleSort('proteinCaloriesPercentage')}>% Calories from Protein {renderSortArrow('proteinCaloriesPercentage')}</th>
+                    <th onClick={() => handleSort('pricePerServing')}>PPS {renderSortArrow('pricePerServing')}</th>
+                    <th onClick={() => handleSort('costPerGramProtein')}>PPG {renderSortArrow('costPerGramProtein')}</th>
+                    <th onClick={() => handleSort('percentCaloriesFromProtein')}>% Calories from Protein {renderSortArrow('percentCaloriesFromProtein')}</th>
                 </tr>
             </thead>
             <tbody>
                 {data.map((item, index) => {
-                    const { productTitle, productPrice, nutrition } = item;
+                    const { productTitle, productPrice, nutrition, percentCaloriesFromProtein, pricePerServing, costPerGramProtein: pricePerGram } = item;
                     const { calories, totalFat, totalCarbs, protein } = nutrition;
+                    console.log(item);
 
                     // Extend the item object with deconstructed properties
                     item.calories = calories;
@@ -105,9 +106,9 @@ export default function ProductsTable({ initialData }) {
                         <td className="numeric">{totalFat}</td>
                         <td className="numeric">{totalCarbs}</td>
                         <td className="numeric">{protein}</td>
-                        <td className="numeric">{productPrice}</td>
-                        <td className="numeric">{productPrice}</td>
-                        <td className="numeric">{productPrice}</td>                        
+                        <td className="numeric">{pricePerServing}</td>
+                        <td className="numeric">{pricePerGram}</td>
+                        <td className="numeric">{percentCaloriesFromProtein}</td>                        
                     </tr>
                     );
                 })}

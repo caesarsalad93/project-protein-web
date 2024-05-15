@@ -1,6 +1,6 @@
 [
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Tyson All Natural White Meat Fun Nuggets - Frozen - 29oz",
     "productLink": "https://www.target.com/p/tyson-all-natural-white-meat-fun-nuggets-frozen-29oz/-/A-14777824",
     "productTcin": "14777824",
@@ -9,18 +9,18 @@
     "productPrice": 6.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "11",
       "calories": "180",
       "totalFat": "11",
       "totalCarbs": "10",
       "protein": "11"
     },
-    "pricePerServing": "6.99",
-    "costPerGramProtein": "0.64",
-    "caloriesToProteinRatio": "16.36"
+    "pricePerServing": "0.64",
+    "costPerGramProtein": "0.06",
+    "percentCaloriesFromProtein": "24.44"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Large Tail Off Peeled &#38; Deveined Raw Shrimp - Frozen - 41-50ct per lb/16oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/large-tail-off-peeled-38-deveined-raw-shrimp-frozen-41-50ct-per-lb-16oz-good-38-gather-8482/-/A-14871930",
     "productTcin": "14871930",
@@ -29,18 +29,18 @@
     "productPrice": 6.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "4",
       "calories": "70",
       "totalFat": "1",
       "totalCarbs": "0",
       "protein": "18"
     },
-    "pricePerServing": "6.99",
-    "costPerGramProtein": "0.39",
-    "caloriesToProteinRatio": "3.89"
+    "pricePerServing": "1.75",
+    "costPerGramProtein": "0.10",
+    "percentCaloriesFromProtein": "102.86"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Tyson All Natural All Natural Chicken Nuggets - Frozen - 32oz",
     "productLink": "https://www.target.com/p/tyson-all-natural-all-natural-chicken-nuggets-frozen-32oz/-/A-14778154",
     "productTcin": "14778154",
@@ -49,18 +49,18 @@
     "productPrice": 6.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "10",
       "calories": "270",
       "totalFat": "17",
       "totalCarbs": "15",
       "protein": "14"
     },
-    "pricePerServing": "6.99",
-    "costPerGramProtein": "0.50",
-    "caloriesToProteinRatio": "19.29"
+    "pricePerServing": "0.70",
+    "costPerGramProtein": "0.05",
+    "percentCaloriesFromProtein": "20.74"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Tyson All Natural Crispy Chicken Strips - Frozen - 25oz",
     "productLink": "https://www.target.com/p/tyson-all-natural-crispy-chicken-strips-frozen-25oz/-/A-14777772",
     "productTcin": "14777772",
@@ -69,18 +69,18 @@
     "productPrice": 8.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "8",
       "calories": "210",
       "totalFat": "10",
       "totalCarbs": "17",
       "protein": "13"
     },
-    "pricePerServing": "8.99",
-    "costPerGramProtein": "0.69",
-    "caloriesToProteinRatio": "16.15"
+    "pricePerServing": "1.12",
+    "costPerGramProtein": "0.09",
+    "percentCaloriesFromProtein": "24.76"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Atlantic Salmon - Frozen - 16oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/atlantic-salmon-frozen-16oz-good-38-gather-8482/-/A-80114702",
     "productTcin": "80114702",
@@ -97,10 +97,30 @@
     },
     "pricePerServing": "2.50",
     "costPerGramProtein": "0.11",
-    "caloriesToProteinRatio": "10.43"
+    "percentCaloriesFromProtein": "38.33"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
+    "productTitle": "Italian Style Beef, Pork, &#38; Chicken Meatballs - Frozen - 26oz - Good &#38; Gather&#8482;",
+    "productLink": "https://www.target.com/p/italian-style-beef-pork-38-chicken-meatballs-frozen-26oz-good-38-gather-8482/-/A-13379453",
+    "productTcin": "13379453",
+    "productBrand": "Good & Gather",
+    "productImage": "https://target.scene7.com/is/image/Target/GUEST_491fbc72-6883-41de-a6a8-782441a1e632",
+    "productPrice": 5.99,
+    "nutrition": {
+      "servingSize": "85",
+      "servingsPerContainer": "9",
+      "calories": "240",
+      "totalFat": "20",
+      "totalCarbs": "5",
+      "protein": "11"
+    },
+    "pricePerServing": "0.67",
+    "costPerGramProtein": "0.06",
+    "percentCaloriesFromProtein": "18.33"
+  },
+  {
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Boneless &#38; Skinless Chicken Breast - Frozen - 40oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/boneless-38-skinless-chicken-breast-frozen-40oz-good-38-gather-8482/-/A-14777815",
     "productTcin": "14777815",
@@ -117,30 +137,10 @@
     },
     "pricePerServing": "0.85",
     "costPerGramProtein": "0.04",
-    "caloriesToProteinRatio": "5.00"
+    "percentCaloriesFromProtein": "80.00"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
-    "productTitle": "Italian Style Beef, Pork, &#38; Chicken Meatballs - Frozen - 26oz - Good &#38; Gather&#8482;",
-    "productLink": "https://www.target.com/p/italian-style-beef-pork-38-chicken-meatballs-frozen-26oz-good-38-gather-8482/-/A-13379453",
-    "productTcin": "13379453",
-    "productBrand": "Good & Gather",
-    "productImage": "https://target.scene7.com/is/image/Target/GUEST_491fbc72-6883-41de-a6a8-782441a1e632",
-    "productPrice": 5.99,
-    "nutrition": {
-      "servingSize": "85",
-      "servingsPerContainer": "N/A",
-      "calories": "240",
-      "totalFat": "20",
-      "totalCarbs": "5",
-      "protein": "11"
-    },
-    "pricePerServing": "5.99",
-    "costPerGramProtein": "0.54",
-    "caloriesToProteinRatio": "21.82"
-  },
-  {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Dinosaur Shaped Frozen Chicken Nuggets - 29oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/dinosaur-shaped-frozen-chicken-nuggets-29oz-good-38-gather-8482/-/A-14820199",
     "productTcin": "14820199",
@@ -149,18 +149,18 @@
     "productPrice": 6.49,
     "nutrition": {
       "servingSize": "80",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "10",
       "calories": "230",
       "totalFat": "15",
       "totalCarbs": "15",
       "protein": "9"
     },
-    "pricePerServing": "6.49",
-    "costPerGramProtein": "0.72",
-    "caloriesToProteinRatio": "25.56"
+    "pricePerServing": "0.65",
+    "costPerGramProtein": "0.07",
+    "percentCaloriesFromProtein": "15.65"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Beef Meatballs - Frozen - 26oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/beef-meatballs-frozen-26oz-good-38-gather-8482/-/A-13379450",
     "productTcin": "13379450",
@@ -169,18 +169,18 @@
     "productPrice": 5.99,
     "nutrition": {
       "servingSize": "85",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "9",
       "calories": "260",
       "totalFat": "21",
       "totalCarbs": "6",
       "protein": "15"
     },
-    "pricePerServing": "5.99",
-    "costPerGramProtein": "0.40",
-    "caloriesToProteinRatio": "17.33"
+    "pricePerServing": "0.67",
+    "costPerGramProtein": "0.04",
+    "percentCaloriesFromProtein": "23.08"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Tyson All Natural Chicken Breast Patties - Frozen - 26oz",
     "productLink": "https://www.target.com/p/tyson-all-natural-chicken-breast-patties-frozen-26oz/-/A-14778767",
     "productTcin": "14778767",
@@ -189,18 +189,18 @@
     "productPrice": 6.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "10",
       "calories": "200",
       "totalFat": "13",
       "totalCarbs": "10",
       "protein": "9"
     },
-    "pricePerServing": "6.99",
-    "costPerGramProtein": "0.78",
-    "caloriesToProteinRatio": "22.22"
+    "pricePerServing": "0.70",
+    "costPerGramProtein": "0.08",
+    "percentCaloriesFromProtein": "18.00"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Chicken Nuggets - Frozen - 29oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/chicken-nuggets-frozen-29oz-good-38-gather-8482/-/A-14831142",
     "productTcin": "14831142",
@@ -209,18 +209,18 @@
     "productPrice": 6.49,
     "nutrition": {
       "servingSize": "80",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "10",
       "calories": "220",
       "totalFat": "14",
       "totalCarbs": "13",
       "protein": "10"
     },
-    "pricePerServing": "6.49",
-    "costPerGramProtein": "0.65",
-    "caloriesToProteinRatio": "22.00"
+    "pricePerServing": "0.65",
+    "costPerGramProtein": "0.06",
+    "percentCaloriesFromProtein": "18.18"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Perdue Simply Smart Organics Gluten Free Breaded Chicken Breast Tenders - Frozen - 22oz",
     "productLink": "https://www.target.com/p/perdue-simply-smart-organics-gluten-free-breaded-chicken-breast-tenders-frozen-22oz/-/A-16998518",
     "productTcin": "16998518",
@@ -237,10 +237,10 @@
     },
     "pricePerServing": "1.71",
     "costPerGramProtein": "0.13",
-    "caloriesToProteinRatio": "16.15"
+    "percentCaloriesFromProtein": "24.76"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Tyson Air Fried Chicken Nuggets - Frozen - 25oz",
     "productLink": "https://www.target.com/p/tyson-air-fried-chicken-nuggets-frozen-25oz/-/A-78821588",
     "productTcin": "78821588",
@@ -249,18 +249,18 @@
     "productPrice": 6.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "8",
       "calories": "160",
       "totalFat": "4",
       "totalCarbs": "15",
       "protein": "15"
     },
-    "pricePerServing": "6.99",
-    "costPerGramProtein": "0.47",
-    "caloriesToProteinRatio": "10.67"
+    "pricePerServing": "0.87",
+    "costPerGramProtein": "0.06",
+    "percentCaloriesFromProtein": "37.50"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Boneless &#38; Skinless Chicken Breast Tenderloins - Frozen - 40oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/boneless-38-skinless-chicken-breast-tenderloins-frozen-40oz-good-38-gather-8482/-/A-14715976",
     "productTcin": "14715976",
@@ -277,10 +277,10 @@
     },
     "pricePerServing": "0.85",
     "costPerGramProtein": "0.04",
-    "caloriesToProteinRatio": "4.29"
+    "percentCaloriesFromProtein": "93.33"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Popcorn Chicken - Frozen - 25.5oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/popcorn-chicken-frozen-25-5oz-good-38-gather-8482/-/A-14856536",
     "productTcin": "14856536",
@@ -289,18 +289,18 @@
     "productPrice": 7.99,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "8",
       "calories": "190",
       "totalFat": "9",
       "totalCarbs": "14",
       "protein": "12"
     },
-    "pricePerServing": "7.99",
-    "costPerGramProtein": "0.67",
-    "caloriesToProteinRatio": "15.83"
+    "pricePerServing": "1.00",
+    "costPerGramProtein": "0.08",
+    "percentCaloriesFromProtein": "25.26"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Steakhouse Seasoned Beef Patties - Frozen - 3LBs - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/steakhouse-seasoned-beef-patties-frozen-3lbs-good-38-gather-8482/-/A-16781984",
     "productTcin": "16781984",
@@ -317,10 +317,10 @@
     },
     "pricePerServing": "1.12",
     "costPerGramProtein": "0.06",
-    "caloriesToProteinRatio": "18.33"
+    "percentCaloriesFromProtein": "21.82"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Perdue Chicken Plus Panko Breaded Dino Chicken Nuggets - Frozen - 22oz",
     "productLink": "https://www.target.com/p/perdue-chicken-plus-panko-breaded-dino-chicken-nuggets-frozen-22oz/-/A-77334620",
     "productTcin": "77334620",
@@ -329,18 +329,18 @@
     "productPrice": 7.39,
     "nutrition": {
       "servingSize": "92",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "6",
       "calories": "210",
       "totalFat": "10",
       "totalCarbs": "21",
       "protein": "9"
     },
-    "pricePerServing": "7.39",
-    "costPerGramProtein": "0.82",
-    "caloriesToProteinRatio": "23.33"
+    "pricePerServing": "1.23",
+    "costPerGramProtein": "0.14",
+    "percentCaloriesFromProtein": "17.14"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Kidfresh  Frozen Chicken Meatballs - 16.45oz",
     "productLink": "https://www.target.com/p/kidfresh-frozen-chicken-meatballs-16-45oz/-/A-85356048",
     "productTcin": "85356048",
@@ -357,10 +357,10 @@
     },
     "pricePerServing": "1.67",
     "costPerGramProtein": "0.17",
-    "caloriesToProteinRatio": "14.00"
+    "percentCaloriesFromProtein": "28.57"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "USDA All Natural Homestyle Turkey Meatballs - Frozen - 20oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/usda-all-natural-homestyle-turkey-meatballs-frozen-20oz-good-38-gather-8482/-/A-16636689",
     "productTcin": "16636689",
@@ -369,18 +369,18 @@
     "productPrice": 5.99,
     "nutrition": {
       "servingSize": "85",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "7",
       "calories": "140",
       "totalFat": "7",
       "totalCarbs": "3",
       "protein": "14"
     },
-    "pricePerServing": "5.99",
-    "costPerGramProtein": "0.43",
-    "caloriesToProteinRatio": "10.00"
+    "pricePerServing": "0.86",
+    "costPerGramProtein": "0.06",
+    "percentCaloriesFromProtein": "40.00"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Morningstar Farms Breakfast Veggie Sausage Links - Frozen - 8oz",
     "productLink": "https://www.target.com/p/morningstar-farms-breakfast-veggie-sausage-links-frozen-8oz/-/A-14624529",
     "productTcin": "14624529",
@@ -397,10 +397,10 @@
     },
     "pricePerServing": "0.90",
     "costPerGramProtein": "0.10",
-    "caloriesToProteinRatio": "7.78"
+    "percentCaloriesFromProtein": "51.43"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Yummy Dino Buddies Chicken Breast Nuggets - Frozen - 35oz",
     "productLink": "https://www.target.com/p/yummy-dino-buddies-chicken-breast-nuggets-frozen-35oz/-/A-53281137",
     "productTcin": "53281137",
@@ -409,18 +409,18 @@
     "productPrice": 8.49,
     "nutrition": {
       "servingSize": "N/A",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "12",
       "calories": "200",
       "totalFat": "10",
       "totalCarbs": "17",
       "protein": "10"
     },
-    "pricePerServing": "8.49",
-    "costPerGramProtein": "0.85",
-    "caloriesToProteinRatio": "20.00"
+    "pricePerServing": "0.71",
+    "costPerGramProtein": "0.07",
+    "percentCaloriesFromProtein": "20.00"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "All Natural 85/15 Beef Patties - Frozen - 3lbs - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/all-natural-85-15-beef-patties-frozen-3lbs-good-38-gather-8482/-/A-16781985",
     "productTcin": "16781985",
@@ -437,10 +437,10 @@
     },
     "pricePerServing": "1.12",
     "costPerGramProtein": "0.05",
-    "caloriesToProteinRatio": "11.43"
+    "percentCaloriesFromProtein": "35.00"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Applegate Naturals Chicken &#38; Maple Breakfast Sausages - Frozen - 7oz/10ct",
     "productLink": "https://www.target.com/p/applegate-naturals-chicken-38-maple-breakfast-sausages-frozen-7oz-10ct/-/A-15830712",
     "productTcin": "15830712",
@@ -457,10 +457,10 @@
     },
     "pricePerServing": "4.99",
     "costPerGramProtein": "0.55",
-    "caloriesToProteinRatio": "12.22"
+    "percentCaloriesFromProtein": "32.73"
   },
   {
-    "createdAt": "2024-05-14T01:38:44.715Z",
+    "createdAt": "2024-05-15T03:02:51.373Z",
     "productTitle": "Perdue Simply Smart Organics Gluten Free Breaded Chicken Breast Nuggets - Frozen - 22oz",
     "productLink": "https://www.target.com/p/perdue-simply-smart-organics-gluten-free-breaded-chicken-breast-nuggets-frozen-22oz/-/A-16998516",
     "productTcin": "16998516",
@@ -469,14 +469,14 @@
     "productPrice": 10.29,
     "nutrition": {
       "servingSize": "76",
-      "servingsPerContainer": "N/A",
+      "servingsPerContainer": "8",
       "calories": "170",
       "totalFat": "9",
       "totalCarbs": "13",
       "protein": "10"
     },
-    "pricePerServing": "10.29",
-    "costPerGramProtein": "1.03",
-    "caloriesToProteinRatio": "17.00"
+    "pricePerServing": "1.29",
+    "costPerGramProtein": "0.13",
+    "percentCaloriesFromProtein": "23.53"
   }
 ]

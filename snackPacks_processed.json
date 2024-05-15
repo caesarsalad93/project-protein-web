@@ -1,6 +1,6 @@
 [
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Turkey &#38; American Cheese - 3.2oz",
     "productLink": "https://www.target.com/p/lunchables-turkey-38-american-cheese-3-2oz/-/A-87430632",
     "productTcin": "87430632",
@@ -17,10 +17,10 @@
     },
     "pricePerServing": "1.99",
     "costPerGramProtein": "0.18",
-    "caloriesToProteinRatio": "27.27"
+    "percentCaloriesFromProtein": "14.67"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Pizza with Pepperoni - 4.3oz",
     "productLink": "https://www.target.com/p/lunchables-pizza-with-pepperoni-4-3oz/-/A-12945703",
     "productTcin": "12945703",
@@ -37,10 +37,10 @@
     },
     "pricePerServing": "1.99",
     "costPerGramProtein": "0.15",
-    "caloriesToProteinRatio": "23.85"
+    "percentCaloriesFromProtein": "16.77"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Ham &#38; American Cheese - 3.2oz",
     "productLink": "https://www.target.com/p/lunchables-ham-38-american-cheese-3-2oz/-/A-87430615",
     "productTcin": "87430615",
@@ -57,10 +57,10 @@
     },
     "pricePerServing": "1.99",
     "costPerGramProtein": "0.18",
-    "caloriesToProteinRatio": "27.27"
+    "percentCaloriesFromProtein": "14.67"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Extra Cheesy Pizza - 4.2oz",
     "productLink": "https://www.target.com/p/lunchables-extra-cheesy-pizza-4-2oz/-/A-12945704",
     "productTcin": "12945704",
@@ -77,10 +77,10 @@
     },
     "pricePerServing": "1.99",
     "costPerGramProtein": "0.14",
-    "caloriesToProteinRatio": "17.86"
+    "percentCaloriesFromProtein": "22.40"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Colby Jack Cheese &#38; Turkey Sausage Protein Pack Quick Bite - 4.5oz/3ct - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/colby-jack-cheese-38-turkey-sausage-protein-pack-quick-bite-4-5oz-3ct-good-38-gather-8482/-/A-84781666",
     "productTcin": "84781666",
@@ -97,10 +97,10 @@
     },
     "pricePerServing": "1.00",
     "costPerGramProtein": "0.09",
-    "caloriesToProteinRatio": "11.82"
+    "percentCaloriesFromProtein": "33.85"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "OH SNAP! Dilly Bites Fresh Dill Pickle Snacking Cuts - 3.25 fl oz",
     "productLink": "https://www.target.com/p/oh-snap-dilly-bites-fresh-dill-pickle-snacking-cuts-3-25-fl-oz/-/A-50557407",
     "productTcin": "50557407",
@@ -117,10 +117,10 @@
     },
     "pricePerServing": "1.59",
     "costPerGramProtein": "N/A",
-    "caloriesToProteinRatio": "N/A"
+    "percentCaloriesFromProtein": "N/A"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Turkey &#38; Cheddar Cheese with Crackers - 3.2oz",
     "productLink": "https://www.target.com/p/lunchables-turkey-38-cheddar-cheese-with-crackers-3-2oz/-/A-12945442",
     "productTcin": "12945442",
@@ -137,10 +137,10 @@
     },
     "pricePerServing": "1.99",
     "costPerGramProtein": "0.15",
-    "caloriesToProteinRatio": "20.00"
+    "percentCaloriesFromProtein": "20.00"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Nachos Cheese Dip &#38; Salsa - 4.4oz",
     "productLink": "https://www.target.com/p/lunchables-nachos-cheese-dip-38-salsa-4-4oz/-/A-12945444",
     "productTcin": "12945444",
@@ -157,10 +157,50 @@
     },
     "pricePerServing": "1.99",
     "costPerGramProtein": "0.28",
-    "caloriesToProteinRatio": "51.43"
+    "percentCaloriesFromProtein": "7.78"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
+    "productTitle": "Cage-Free Hard-Cooked Eggs - 9.3oz/6ct - Good &#38; Gather&#8482;",
+    "productLink": "https://www.target.com/p/cage-free-hard-cooked-eggs-9-3oz-6ct-good-38-gather-8482/-/A-81916179",
+    "productTcin": "81916179",
+    "productBrand": "Good & Gather",
+    "productImage": "https://target.scene7.com/is/image/Target/GUEST_6406ce45-e9a1-4dd9-a1c5-43c2676d6d12",
+    "productPrice": 3.19,
+    "nutrition": {
+      "servingSize": "44",
+      "servingsPerContainer": "6",
+      "calories": "60",
+      "totalFat": "4",
+      "totalCarbs": "0",
+      "protein": "6"
+    },
+    "pricePerServing": "0.53",
+    "costPerGramProtein": "0.09",
+    "percentCaloriesFromProtein": "40.00"
+  },
+  {
+    "createdAt": "2024-05-15T03:02:34.680Z",
+    "productTitle": "Lunchables Turkey &#38; American Cheese Cracker Stackers - 8.9oz",
+    "productLink": "https://www.target.com/p/lunchables-turkey-38-american-cheese-cracker-stackers-8-9oz/-/A-12945440",
+    "productTcin": "12945440",
+    "productBrand": "Lunchables",
+    "productImage": "https://target.scene7.com/is/image/Target/GUEST_67fe191a-602d-46d0-9518-4d0d241a83d8",
+    "productPrice": 2.99,
+    "nutrition": {
+      "servingSize": "N/A",
+      "servingsPerContainer": "N/A",
+      "calories": "300",
+      "totalFat": "15",
+      "totalCarbs": "32",
+      "protein": "11"
+    },
+    "pricePerServing": "2.99",
+    "costPerGramProtein": "0.27",
+    "percentCaloriesFromProtein": "14.67"
+  },
+  {
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Hillshire Snacking Wine Infused Salame Cheese and Crackers Small Plate - 2.76oz",
     "productLink": "https://www.target.com/p/hillshire-snacking-wine-infused-salame-cheese-and-crackers-small-plate-2-76oz/-/A-49117982",
     "productTcin": "49117982",
@@ -177,10 +217,10 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "0.19",
-    "caloriesToProteinRatio": "19.38"
+    "percentCaloriesFromProtein": "20.65"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Hillshire Snacking All Natural Uncured Pepperoni with White Cheddar Cheese and Toasted Rounds - 2.76oz",
     "productLink": "https://www.target.com/p/hillshire-snacking-all-natural-uncured-pepperoni-with-white-cheddar-cheese-and-toasted-rounds-2-76oz/-/A-53294701",
     "productTcin": "53294701",
@@ -197,10 +237,10 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "0.19",
-    "caloriesToProteinRatio": "20.63"
+    "percentCaloriesFromProtein": "19.39"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Hillshire Farm Snacking Bistro Bites with Italian Dry Salami, White Cheddar &#38; Chocolate Almonds - 2.8oz",
     "productLink": "https://www.target.com/p/hillshire-farm-snacking-bistro-bites-with-italian-dry-salami-white-cheddar-38-chocolate-almonds-2-8oz/-/A-78829180",
     "productTcin": "78829180",
@@ -217,10 +257,10 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "0.19",
-    "caloriesToProteinRatio": "20.00"
+    "percentCaloriesFromProtein": "20.00"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Once Upon a Farm Wild Rumpus Avocado, Pineapple Banana Organic Kids&#39; Snack - 3.2oz Pouch",
     "productLink": "https://www.target.com/p/once-upon-a-farm-wild-rumpus-avocado-pineapple-banana-organic-kids-39-snack-3-2oz-pouch/-/A-53318169",
     "productTcin": "53318169",
@@ -237,10 +277,30 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "2.99",
-    "caloriesToProteinRatio": "60.00"
+    "percentCaloriesFromProtein": "6.67"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
+    "productTitle": "Once Upon a Farm Berry Berry Organic Dairy-Free Kids&#39; Smoothie - 4oz Pouch",
+    "productLink": "https://www.target.com/p/once-upon-a-farm-berry-berry-organic-dairy-free-kids-39-smoothie-4oz-pouch/-/A-53318229",
+    "productTcin": "53318229",
+    "productBrand": "Once Upon a Farm",
+    "productImage": "https://target.scene7.com/is/image/Target/GUEST_2bc4803c-7bf1-4bfe-93ae-e323049ef41f",
+    "productPrice": 2.99,
+    "nutrition": {
+      "servingSize": "N/A",
+      "servingsPerContainer": "N/A",
+      "calories": "100",
+      "totalFat": "4",
+      "totalCarbs": "15",
+      "protein": "3"
+    },
+    "pricePerServing": "2.99",
+    "costPerGramProtein": "1.00",
+    "percentCaloriesFromProtein": "12.00"
+  },
+  {
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Once Upon a Farm Coco for Mangoes Organic Dairy-Free Kids&#39; Smoothie - 4oz Pouch",
     "productLink": "https://www.target.com/p/once-upon-a-farm-coco-for-mangoes-organic-dairy-free-kids-39-smoothie-4oz-pouch/-/A-53318234",
     "productTcin": "53318234",
@@ -257,10 +317,10 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "1.00",
-    "caloriesToProteinRatio": "30.00"
+    "percentCaloriesFromProtein": "13.33"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Cheddar Cheese &#38; Beef Sausage Protein Pack Quick Bite - 4.5oz/3ct - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/cheddar-cheese-38-beef-sausage-protein-pack-quick-bite-4-5oz-3ct-good-38-gather-8482/-/A-84781667",
     "productTcin": "84781667",
@@ -277,10 +337,10 @@
     },
     "pricePerServing": "1.00",
     "costPerGramProtein": "0.10",
-    "caloriesToProteinRatio": "16.00"
+    "percentCaloriesFromProtein": "25.00"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Hillshire Farm Snacking Bistro Bites with Genoa Salami, Gouda &#38; Salted Almonds - 2.8oz",
     "productLink": "https://www.target.com/p/hillshire-farm-snacking-bistro-bites-with-genoa-salami-gouda-38-salted-almonds-2-8oz/-/A-78829179",
     "productTcin": "78829179",
@@ -297,10 +357,10 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "0.17",
-    "caloriesToProteinRatio": "18.33"
+    "percentCaloriesFromProtein": "21.82"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Lunchables Turkey &#38; Reduced Fat Cheddar Cheese Cracker Stackers - 9.2oz",
     "productLink": "https://www.target.com/p/lunchables-turkey-38-reduced-fat-cheddar-cheese-cracker-stackers-9-2oz/-/A-12945922",
     "productTcin": "12945922",
@@ -317,10 +377,10 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "0.27",
-    "caloriesToProteinRatio": "30.00"
+    "percentCaloriesFromProtein": "13.33"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Pepperoni, Sliced Gouda Cheese and Green Olives - 2.7oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/pepperoni-sliced-gouda-cheese-and-green-olives-2-7oz-good-38-gather-8482/-/A-78308131",
     "productTcin": "78308131",
@@ -337,10 +397,10 @@
     },
     "pricePerServing": "2.79",
     "costPerGramProtein": "0.21",
-    "caloriesToProteinRatio": "18.46"
+    "percentCaloriesFromProtein": "21.67"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Smoked Turkey &#38; Cheddar Cheese Lunch Kit - 2.8oz - Good &#38; Gather&#8482;",
     "productLink": "https://www.target.com/p/smoked-turkey-38-cheddar-cheese-lunch-kit-2-8oz-good-38-gather-8482/-/A-53224345",
     "productTcin": "53224345",
@@ -357,10 +417,10 @@
     },
     "pricePerServing": "1.89",
     "costPerGramProtein": "0.16",
-    "caloriesToProteinRatio": "21.67"
+    "percentCaloriesFromProtein": "18.46"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Sargento Balanced Breaks Natural White Cheddar, Sea-Salted Roasted Almonds &#38; Dried Cranberries - 4.5oz/3ct",
     "productLink": "https://www.target.com/p/sargento-balanced-breaks-natural-white-cheddar-sea-salted-roasted-almonds-38-dried-cranberries-4-5oz-3ct/-/A-49088965",
     "productTcin": "49088965",
@@ -377,10 +437,10 @@
     },
     "pricePerServing": "1.16",
     "costPerGramProtein": "0.17",
-    "caloriesToProteinRatio": "27.14"
+    "percentCaloriesFromProtein": "14.74"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "OH SNAP! Hottie Bites - 3.25 fl oz",
     "productLink": "https://www.target.com/p/oh-snap-hottie-bites-3-25-fl-oz/-/A-50557409",
     "productTcin": "50557409",
@@ -397,10 +457,10 @@
     },
     "pricePerServing": "1.59",
     "costPerGramProtein": "N/A",
-    "caloriesToProteinRatio": "N/A"
+    "percentCaloriesFromProtein": "N/A"
   },
   {
-    "createdAt": "2024-05-14T01:39:02.802Z",
+    "createdAt": "2024-05-15T03:02:34.680Z",
     "productTitle": "Once Upon a Farm OhMyMegaVeggie Apple, Carrot, Beet Organic Kids&#39; Snack - 3.2oz Pouch",
     "productLink": "https://www.target.com/p/once-upon-a-farm-ohmymegaveggie-apple-carrot-beet-organic-kids-39-snack-3-2oz-pouch/-/A-53318175",
     "productTcin": "53318175",
@@ -417,66 +477,6 @@
     },
     "pricePerServing": "2.99",
     "costPerGramProtein": "2.99",
-    "caloriesToProteinRatio": "50.00"
-  },
-  {
-    "createdAt": "2024-05-14T01:39:02.802Z",
-    "productTitle": "Classic Hummus &#38; Pretzels Cup - 4.53oz - Good &#38; Gather&#8482;",
-    "productLink": "https://www.target.com/p/classic-hummus-38-pretzels-cup-4-53oz-good-38-gather-8482/-/A-81593950",
-    "productTcin": "81593950",
-    "productBrand": "Good & Gather",
-    "productImage": "https://target.scene7.com/is/image/Target/GUEST_ac6f066e-fc0e-48f4-a288-ae0ec63e40cf",
-    "productPrice": 1.89,
-    "nutrition": {
-      "servingSize": "128.5",
-      "servingsPerContainer": "1",
-      "calories": "360",
-      "totalFat": "18",
-      "totalCarbs": "40",
-      "protein": "9"
-    },
-    "pricePerServing": "1.89",
-    "costPerGramProtein": "0.21",
-    "caloriesToProteinRatio": "40.00"
-  },
-  {
-    "createdAt": "2024-05-14T01:39:02.802Z",
-    "productTitle": "Quick Bites White Cheddar Cheese, Dried Sweetened Cranberries &#38; Sea-Salted Roasted Almonds - 4.5oz/3ct - Good &#38; Gather&#8482;",
-    "productLink": "https://www.target.com/p/quick-bites-white-cheddar-cheese-dried-sweetened-cranberries-38-sea-salted-roasted-almonds-4-5oz-3ct-good-38-gather-8482/-/A-54331069",
-    "productTcin": "54331069",
-    "productBrand": "Good & Gather",
-    "productImage": "https://target.scene7.com/is/image/Target/GUEST_bfc877f5-80b1-4db0-bd00-47d18fb5527e",
-    "productPrice": 2.99,
-    "nutrition": {
-      "servingSize": "42",
-      "servingsPerContainer": "3",
-      "calories": "180",
-      "totalFat": "13",
-      "totalCarbs": "10",
-      "protein": "7"
-    },
-    "pricePerServing": "1.00",
-    "costPerGramProtein": "0.14",
-    "caloriesToProteinRatio": "25.71"
-  },
-  {
-    "createdAt": "2024-05-14T01:39:02.802Z",
-    "productTitle": "Sargento Balanced Breaks Natural Sharp Cheddar, Sea-Salted Cashews &#38; Cherry Juice-Infused Dried Cranberries - 4.5oz/3ct",
-    "productLink": "https://www.target.com/p/sargento-balanced-breaks-natural-sharp-cheddar-sea-salted-cashews-38-cherry-juice-infused-dried-cranberries-4-5oz-3ct/-/A-49088966",
-    "productTcin": "49088966",
-    "productBrand": "Sargento",
-    "productImage": "https://target.scene7.com/is/image/Target/GUEST_7e73c6e3-f5d2-4259-ac26-1840336eb145",
-    "productPrice": 3.49,
-    "nutrition": {
-      "servingSize": "43.0",
-      "servingsPerContainer": "3",
-      "calories": "180",
-      "totalFat": "12",
-      "totalCarbs": "12",
-      "protein": "7"
-    },
-    "pricePerServing": "1.16",
-    "costPerGramProtein": "0.17",
-    "caloriesToProteinRatio": "25.71"
+    "percentCaloriesFromProtein": "8.00"
   }
 ]
